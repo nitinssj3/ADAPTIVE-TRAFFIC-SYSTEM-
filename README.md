@@ -1,7 +1,7 @@
 # ADAPTIVE-TRAFFIC-SYSTEM-
 The purpose of this project is to detect and track vehicles on a video stream and count those going through a defined line.
 
-highway.gif
+
 
 It uses:
 
